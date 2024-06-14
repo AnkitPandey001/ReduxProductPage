@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnkitPandey001/ReduxProductPage.git/static/css/main.3bbb65e0.css",
+    "main.js": "/AnkitPandey001/ReduxProductPage.git/static/js/main.a499e575.js",
+    "index.html": "/AnkitPandey001/ReduxProductPage.git/index.html",
+    "main.3bbb65e0.css.map": "/AnkitPandey001/ReduxProductPage.git/static/css/main.3bbb65e0.css.map",
+    "main.a499e575.js.map": "/AnkitPandey001/ReduxProductPage.git/static/js/main.a499e575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bbb65e0.css",
+    "static/js/main.a499e575.js"
+  ]
+}
